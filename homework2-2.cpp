@@ -119,7 +119,7 @@ int findBestStudent(StudentStruct *students, int numOfStudent)
         }
         return bestStudentId;
     }
-    return 1001;
+    return 1002;
 }
 
 /* Return Index */
